@@ -1,0 +1,84 @@
+html {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}
+
+#housing {
+    border: solid navy;
+    background-color: navy;
+    border-radius: 80px;
+    height: 800px;
+    width: 550px;
+    padding-top: 50px;
+    margin: auto;
+}
+
+#display {
+
+    border: solid black;
+    background-color: green;
+    border-radius: 10px;
+    height: 200px;
+    width: 500px;
+    margin: auto;
+    padding: auto;
+
+}
+
+#upperMenu {
+
+    border: solid black;
+    background-color: gray;
+    border-radius: 5px;
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#menu {
+    border: solid black;
+    background-color: rgb(69, 68, 68);
+    border-radius: 5px;
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#firstRow {
+    display: flex;
+    justify-content: center;
+}
+#secondRow {
+    display: flex;
+    justify-content: center;
+
+}
+#thirdRow {
+    display: flex;
+    justify-content: center;
+    
+
+}
+#fourthRow {
+    display: flex;
+    justify-content: center;
+
+}
+
+button {
+    margin: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+.textField {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-content: flex-start;
+    height: 180px;
+    width: 500px;
+}
