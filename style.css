@@ -15,7 +15,6 @@ html {
 }
 
 #display {
-
     border: solid black;
     background-color: green;
     border-radius: 10px;
@@ -75,6 +74,8 @@ button {
 }
 
 .textField {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
     display: flex;
     flex-direction: column;
     justify-content: end;
